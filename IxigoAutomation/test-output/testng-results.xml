@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Ixigo Automation Test Suite" duration-ms="48253" started-at="2020-11-16T05:26:14Z" finished-at="2020-11-16T05:27:03Z">
+    <groups>
+    </groups>
+    <test name="Ixigo Test Cases" duration-ms="48253" started-at="2020-11-16T05:26:14Z" finished-at="2020-11-16T05:27:03Z">
+      <class name="com.ixigo.testcases.HomePageTest">
+        <test-method status="PASS" signature="start()[pri:0, instance:com.ixigo.testcases.HomePageTest@3c0f93f1]" name="start" is-config="true" duration-ms="243" started-at="2020-11-16T10:56:14Z" finished-at="2020-11-16T10:56:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.ixigo.testcases.HomePageTest@3c0f93f1]" name="beforeMethod" is-config="true" duration-ms="13097" started-at="2020-11-16T10:56:14Z" finished-at="2020-11-16T10:56:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ixigo()[pri:0, instance:com.ixigo.testcases.HomePageTest@3c0f93f1]" name="ixigo" duration-ms="34271" started-at="2020-11-16T10:56:27Z" description="Ixigo" finished-at="2020-11-16T10:57:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ixigo -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.ixigo.testcases.HomePageTest@3c0f93f1]" name="tearDown" is-config="true" duration-ms="862" started-at="2020-11-16T10:57:02Z" finished-at="2020-11-16T10:57:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ixigo status=SUCCESS method=HomePageTest.ixigo()[pri:0, instance:com.ixigo.testcases.HomePageTest@3c0f93f1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ixigo.testcases.HomePageTest -->
+    </test> <!-- Ixigo Test Cases -->
+  </suite> <!-- Ixigo Automation Test Suite -->
+</testng-results>

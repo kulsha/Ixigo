@@ -289,3 +289,9 @@
 2020-11-16 10:07:15,595 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
 2020-11-16 10:08:35,285 - com.project.common.util.BaseTest -INFO - browser launched , url entered
 2020-11-16 10:08:37,745 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 10:53:41,587 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 10:53:56,965 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 10:55:36,859 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 10:55:39,111 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 10:56:25,324 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 10:56:27,960 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************

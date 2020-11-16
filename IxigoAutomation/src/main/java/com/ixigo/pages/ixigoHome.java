@@ -110,8 +110,9 @@ public class ixigoHome extends BaseTest {
 			 DatePicker.selectDateByJS(driver, Return, returnDate1);
 			 Thread.sleep(2000);
 			 NoOfTravellers.click();
+			 Thread.sleep(2000);
 			 search.click();
-			 Thread.sleep(6000);
+			 Thread.sleep(7000);
 			 
 			 /* nonStop.click();
 			    Thread.sleep(6000);
