@@ -1,0 +1,291 @@
+2020-06-01 15:35:59,040 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-01 15:37:32,464 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-01 15:37:32,944 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-06-01 15:37:33,412 - com.project.common.util.BaseTest -INFO - home page displayed and scroll down happened
+2020-06-01 15:37:35,589 - com.project.common.util.BaseTest -INFO - label found
+2020-06-01 15:37:48,364 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-01 15:37:48,369 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-06-01 15:37:50,054 - com.project.common.util.BaseTest -INFO - menu icon clicked
+2020-06-01 15:43:34,747 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-01 15:43:34,934 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-06-01 15:43:35,654 - com.project.common.util.BaseTest -INFO - home page displayed and scroll down happened
+2020-06-01 15:43:37,762 - com.project.common.util.BaseTest -INFO - label found
+2020-06-01 15:43:50,134 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-01 15:43:50,142 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-06-01 15:43:51,495 - com.project.common.util.BaseTest -INFO - menu icon clicked
+2020-06-01 15:48:35,971 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-01 15:54:07,889 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-01 15:54:08,006 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-06-01 15:54:08,180 - com.project.common.util.BaseTest -INFO - menu icon clicked
+2020-06-01 15:54:26,651 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-01 15:54:26,657 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-06-01 15:54:27,077 - com.project.common.util.BaseTest -INFO - home page displayed and scroll down happened
+2020-06-01 15:54:29,221 - com.project.common.util.BaseTest -INFO - label found
+2020-06-01 15:57:20,789 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-01 16:01:39,289 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-01 16:01:59,853 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-01 16:02:53,695 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-01 16:02:53,933 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-06-01 16:02:54,728 - com.project.common.util.BaseTest -INFO - menu icon clicked
+2020-06-01 16:03:13,493 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-01 16:03:13,498 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-06-01 16:03:13,669 - com.project.common.util.BaseTest -INFO - home page displayed and scroll down happened
+2020-06-01 16:03:15,759 - com.project.common.util.BaseTest -INFO - label found
+2020-06-01 16:10:44,545 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-09 12:25:07,423 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-09 12:26:02,309 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-10 16:06:11,320 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-10 16:06:23,538 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-06-10 16:06:23,822 - com.project.common.util.BaseTest -INFO - home page displayed and scroll down happened
+2020-06-10 16:06:26,020 - com.project.common.util.BaseTest -INFO - label found
+2020-06-10 16:30:56,963 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-10 16:32:26,847 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-18 19:48:11,334 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-18 19:52:23,380 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-18 19:54:57,697 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-18 19:56:15,372 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-18 20:00:33,481 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-18 20:01:25,102 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-18 20:04:26,187 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-18 20:14:22,722 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-18 20:17:33,800 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-18 20:20:46,358 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-18 20:20:49,492 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-06-18 20:25:04,022 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-18 20:27:42,740 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-18 20:27:45,862 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-06-19 21:32:10,736 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-19 21:32:19,936 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-06-19 21:33:34,764 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-19 21:33:38,704 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-06-19 21:37:10,384 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-19 21:37:13,209 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-06-19 21:41:13,102 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-19 21:41:15,264 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-06-19 22:27:40,076 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-20 20:24:04,490 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-20 20:24:20,439 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-06-20 20:24:22,583 - com.project.common.util.BaseTest -INFO - home page displayed and scroll down happened
+2020-06-20 20:24:26,187 - com.project.common.util.BaseTest -INFO - label found
+2020-06-20 20:33:08,667 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-20 20:33:12,226 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-06-20 20:33:16,531 - com.project.common.util.BaseTest -INFO - home page displayed and scroll down happened
+2020-06-20 20:33:25,254 - com.project.common.util.BaseTest -INFO - label found
+2020-06-21 12:39:55,173 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-21 12:40:16,785 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-21 12:40:16,924 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-06-21 12:40:16,996 - com.project.common.util.BaseTest -INFO - home page displayed and scroll down happened
+2020-06-21 12:40:19,572 - com.project.common.util.BaseTest -INFO - label found
+2020-06-21 12:40:38,016 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-21 12:40:38,144 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-06-21 12:40:46,324 - com.project.common.util.BaseTest -INFO - Continue button clicked
+2020-06-21 12:40:46,469 - com.project.common.util.BaseTest -INFO - Mandatory email error checked
+2020-06-21 12:40:47,706 - com.project.common.util.BaseTest -INFO - Valid email entered and continue button clicked
+2020-06-21 12:40:49,965 - com.project.common.util.BaseTest -INFO - Mandatory password error checked
+2020-06-21 13:35:03,004 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-21 13:35:25,403 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-21 13:35:25,602 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-06-21 13:35:25,651 - com.project.common.util.BaseTest -INFO - home page displayed and scroll down happened
+2020-06-21 13:35:28,106 - com.project.common.util.BaseTest -INFO - label found
+2020-06-21 13:35:47,751 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-21 13:35:48,032 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-06-21 13:35:57,013 - com.project.common.util.BaseTest -INFO - Continue button clicked
+2020-06-21 13:35:57,089 - com.project.common.util.BaseTest -INFO - Mandatory email error checked
+2020-06-21 13:35:58,581 - com.project.common.util.BaseTest -INFO - Valid email entered and continue button clicked
+2020-06-21 13:36:00,811 - com.project.common.util.BaseTest -INFO - Mandatory password error checked
+2020-06-21 13:37:12,194 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-21 13:37:20,475 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-21 13:37:20,676 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-06-21 13:38:04,930 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-21 13:38:20,043 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-21 13:38:20,147 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-06-21 13:38:20,218 - com.project.common.util.BaseTest -INFO - home page displayed and scroll down happened
+2020-06-21 13:38:22,318 - com.project.common.util.BaseTest -INFO - label found
+2020-06-21 13:38:44,731 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-06-21 13:38:44,842 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-07-07 18:38:28,357 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-07 19:26:21,146 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-07 19:30:43,008 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-07 19:33:08,191 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-07 19:34:08,530 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-07 19:37:49,560 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-07 19:51:05,148 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-08 20:15:46,996 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-08 20:20:23,204 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-08 23:01:31,150 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-08 23:03:04,859 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-08 23:07:31,221 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-08 23:10:12,280 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-08 23:12:07,295 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-08 23:21:22,534 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-08 23:25:53,511 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-08 23:26:51,037 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-08 23:28:35,237 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-08 23:30:37,969 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-08 23:31:46,083 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-08 23:32:31,716 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-09 20:37:00,201 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-09 20:38:18,077 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-09 20:41:38,416 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-09 21:34:04,595 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-09 22:39:34,074 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-13 12:06:21,203 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-13 12:16:19,141 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-13 12:16:25,038 - com.project.common.util.BaseTest -INFO - iphone searched
+2020-07-13 12:24:11,193 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-13 12:24:18,074 - com.project.common.util.BaseTest -INFO - iphone searched
+2020-07-13 12:24:20,731 - com.project.common.util.BaseTest -INFO - iphone selected
+2020-07-13 12:24:20,756 - com.project.common.util.BaseTest -INFO - navigated to new tab
+2020-07-13 12:29:28,326 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-13 12:29:34,723 - com.project.common.util.BaseTest -INFO - iphone searched
+2020-07-13 12:29:37,256 - com.project.common.util.BaseTest -INFO - iphone selected
+2020-07-13 12:29:37,294 - com.project.common.util.BaseTest -INFO - navigated to new tab
+2020-07-13 12:32:47,220 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-13 12:32:53,421 - com.project.common.util.BaseTest -INFO - iphone searched
+2020-07-13 12:32:56,113 - com.project.common.util.BaseTest -INFO - iphone selected
+2020-07-13 12:32:56,150 - com.project.common.util.BaseTest -INFO - navigated to new tab
+2020-07-13 12:33:03,342 - com.project.common.util.BaseTest -INFO - Add to cart button is disabled so clicked on Add to wishlist button
+2020-07-13 12:37:10,800 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-13 12:37:17,506 - com.project.common.util.BaseTest -INFO - iphone searched
+2020-07-13 12:38:18,811 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-13 12:38:25,418 - com.project.common.util.BaseTest -INFO - iphone searched
+2020-07-13 12:40:54,927 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-13 12:41:01,820 - com.project.common.util.BaseTest -INFO - iphone searched
+2020-07-13 12:47:09,954 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-13 12:47:16,326 - com.project.common.util.BaseTest -INFO - iphone searched
+2020-07-13 12:47:19,139 - com.project.common.util.BaseTest -INFO - iphone selected/clicked
+2020-07-13 12:47:19,165 - com.project.common.util.BaseTest -INFO - navigated to new tab
+2020-07-13 12:47:31,138 - com.project.common.util.BaseTest -INFO - Add to cart button is disabled so clicked on Add to wishlist button
+2020-07-13 12:49:07,147 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-13 12:49:14,117 - com.project.common.util.BaseTest -INFO - iphone searched
+2020-07-13 12:49:16,856 - com.project.common.util.BaseTest -INFO - iphone selected/clicked
+2020-07-13 12:49:16,893 - com.project.common.util.BaseTest -INFO - navigated to new tab
+2020-07-13 12:49:23,543 - com.project.common.util.BaseTest -INFO - Add to cart button is disabled so clicked on Add to wishlist button
+2020-07-13 12:52:35,235 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-13 12:52:37,515 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-07-13 12:52:50,567 - com.project.common.util.BaseTest -INFO - iphone searched
+2020-07-13 12:52:53,172 - com.project.common.util.BaseTest -INFO - iphone selected/clicked
+2020-07-13 12:52:53,204 - com.project.common.util.BaseTest -INFO - navigated to new tab
+2020-07-13 12:53:08,292 - com.project.common.util.BaseTest -INFO - Add to cart button is disabled so clicked on Add to wishlist button
+2020-07-13 12:54:50,589 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-13 12:54:52,606 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-07-13 12:54:56,745 - com.project.common.util.BaseTest -INFO - iphone searched
+2020-07-13 12:54:59,607 - com.project.common.util.BaseTest -INFO - iphone selected/clicked
+2020-07-13 12:54:59,639 - com.project.common.util.BaseTest -INFO - navigated to new tab
+2020-07-13 12:55:08,094 - com.project.common.util.BaseTest -INFO - Add to cart button is disabled so clicked on Add to wishlist button
+2020-07-13 12:57:12,372 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-13 12:57:14,497 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-07-13 12:57:19,018 - com.project.common.util.BaseTest -INFO - iphone searched
+2020-07-13 12:57:21,745 - com.project.common.util.BaseTest -INFO - iphone selected/clicked
+2020-07-13 12:57:21,776 - com.project.common.util.BaseTest -INFO - navigated to new tab
+2020-07-13 12:57:28,695 - com.project.common.util.BaseTest -INFO - Add to cart button is disabled so clicked on Add to wishlist button
+2020-07-14 17:05:50,281 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-14 17:05:58,109 - com.project.common.util.BaseTest -INFO - test case 1 starting ************************
+2020-07-14 17:10:31,653 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-14 17:10:33,358 - com.project.common.util.BaseTest -INFO - test case 1 starting ************************
+2020-07-14 17:12:55,987 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-14 17:12:57,775 - com.project.common.util.BaseTest -INFO - test case 1 starting ************************
+2020-07-14 17:15:02,952 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-14 17:15:04,672 - com.project.common.util.BaseTest -INFO - test case 1 starting ************************
+2020-07-14 17:18:02,731 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-14 17:18:04,633 - com.project.common.util.BaseTest -INFO - test case 1 starting ************************
+2020-07-14 17:18:49,902 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-14 17:18:51,747 - com.project.common.util.BaseTest -INFO - test case 1 starting ************************
+2020-07-14 17:23:42,587 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-14 17:23:44,570 - com.project.common.util.BaseTest -INFO - test case 1 starting ************************
+2020-07-14 17:24:42,774 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-14 17:24:44,714 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-07-14 17:25:42,700 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-14 17:25:44,366 - com.project.common.util.BaseTest -INFO - test case 2 starting ************************
+2020-07-14 19:52:36,688 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-14 19:52:44,234 - com.project.common.util.BaseTest -INFO - test case 1 starting ************************
+2020-07-14 20:03:19,013 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-14 20:03:21,160 - com.project.common.util.BaseTest -INFO - test case 1 starting ************************
+2020-07-14 20:05:48,320 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-14 20:05:50,703 - com.project.common.util.BaseTest -INFO - test case 1 starting ************************
+2020-07-14 20:06:57,276 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-14 20:06:59,300 - com.project.common.util.BaseTest -INFO - test case 1 starting ************************
+2020-07-14 20:13:20,561 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-14 20:13:22,584 - com.project.common.util.BaseTest -INFO - test case 1 starting ************************
+2020-07-14 20:26:45,673 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-14 20:26:47,776 - com.project.common.util.BaseTest -INFO - test case 1 starting ************************
+2020-07-14 20:29:08,250 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-14 20:29:10,224 - com.project.common.util.BaseTest -INFO - test case 1 starting ************************
+2020-07-14 20:31:29,077 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-14 20:31:31,363 - com.project.common.util.BaseTest -INFO - test case 1 starting ************************
+2020-07-14 20:34:30,911 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-14 20:34:33,373 - com.project.common.util.BaseTest -INFO - test case 1 starting ************************
+2020-07-14 20:57:47,285 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-14 20:57:49,458 - com.project.common.util.BaseTest -INFO - test case 1 starting ************************
+2020-07-14 20:59:09,890 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-07-14 20:59:12,069 - com.project.common.util.BaseTest -INFO - test case 1 starting ************************
+2020-11-15 16:52:38,443 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-15 16:53:36,814 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-15 16:55:45,498 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-15 16:55:47,722 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-15 16:57:42,352 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-15 16:57:44,906 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-15 16:58:54,112 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-15 16:58:57,322 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-15 17:02:34,211 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-15 17:02:37,108 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-15 17:04:05,370 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-15 17:04:07,687 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-15 17:06:07,840 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-15 17:06:10,581 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-15 17:09:04,481 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-15 17:09:06,747 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 00:00:17,040 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 00:00:32,480 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 00:01:13,257 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 00:01:15,447 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 00:03:30,955 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 00:03:33,729 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 00:05:28,240 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 00:05:30,451 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 00:06:03,421 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 00:06:05,237 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 00:16:00,466 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 00:16:03,502 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 00:19:05,308 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 00:19:08,269 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 00:32:54,776 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 00:32:57,589 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 00:36:24,335 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 00:36:26,643 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 00:38:13,393 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 00:38:15,890 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 00:39:54,219 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 00:39:56,591 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 00:40:33,949 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 00:40:36,635 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 00:42:25,922 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 00:42:28,166 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 09:32:09,836 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 09:32:28,538 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 09:34:02,890 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 09:34:06,547 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 09:35:40,112 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 09:35:42,743 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 09:39:54,310 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 09:39:56,959 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 09:49:16,285 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 09:49:19,756 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 09:50:55,323 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 09:50:57,840 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 09:52:53,853 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 09:52:56,902 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 09:54:49,376 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 09:54:51,892 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 09:56:20,350 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 09:56:23,329 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 09:59:57,045 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 09:59:59,937 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 10:02:25,380 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 10:02:27,754 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 10:05:36,513 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 10:05:38,639 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 10:07:12,286 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 10:07:15,595 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
+2020-11-16 10:08:35,285 - com.project.common.util.BaseTest -INFO - browser launched , url entered
+2020-11-16 10:08:37,745 - com.project.common.util.BaseTest -INFO - test case 1 starting *****************************
